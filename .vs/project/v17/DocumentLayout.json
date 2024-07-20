@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\gaming\\project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA597AC-799E-2D81-E8A0-0EA9A568434E}|Assembly-CSharp.csproj|D:\\gaming\\project\\assets\\scripts\\aduio manger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA597AC-799E-2D81-E8A0-0EA9A568434E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\aduio manger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA597AC-799E-2D81-E8A0-0EA9A568434E}|Assembly-CSharp.csproj|d:\\gaming\\project\\assets\\scripts\\sounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA597AC-799E-2D81-E8A0-0EA9A568434E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA597AC-799E-2D81-E8A0-0EA9A568434E}|Assembly-CSharp.csproj|D:\\gaming\\project\\assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA597AC-799E-2D81-E8A0-0EA9A568434E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA597AC-799E-2D81-E8A0-0EA9A568434E}|Assembly-CSharp.csproj|D:\\gaming\\project\\assets\\scripts\\end triger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA597AC-799E-2D81-E8A0-0EA9A568434E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\end triger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA597AC-799E-2D81-E8A0-0EA9A568434E}|Assembly-CSharp.csproj|D:\\gaming\\project\\assets\\scripts\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA597AC-799E-2D81-E8A0-0EA9A568434E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA597AC-799E-2D81-E8A0-0EA9A568434E}|Assembly-CSharp.csproj|D:\\gaming\\project\\assets\\scripts\\player controler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA597AC-799E-2D81-E8A0-0EA9A568434E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player controler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA597AC-799E-2D81-E8A0-0EA9A568434E}|Assembly-CSharp.csproj|D:\\gaming\\project\\assets\\scripts\\camera controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA597AC-799E-2D81-E8A0-0EA9A568434E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA597AC-799E-2D81-E8A0-0EA9A568434E}|Assembly-CSharp.csproj|D:\\gaming\\project\\assets\\scripts\\player manger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA597AC-799E-2D81-E8A0-0EA9A568434E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player manger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "coin.cs",
+              "DocumentMoniker": "D:\\gaming\\project\\Assets\\scripts\\coin.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\coin.cs",
+              "ToolTip": "D:\\gaming\\project\\Assets\\scripts\\coin.cs",
+              "RelativeToolTip": "Assets\\scripts\\coin.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIBQwBIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T00:00:57.706Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "end triger.cs",
+              "DocumentMoniker": "D:\\gaming\\project\\Assets\\scripts\\end triger.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\end triger.cs",
+              "ToolTip": "D:\\gaming\\project\\Assets\\scripts\\end triger.cs",
+              "RelativeToolTip": "Assets\\scripts\\end triger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T01:27:07.686Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aduio manger.cs",
+              "DocumentMoniker": "D:\\gaming\\project\\Assets\\scripts\\aduio manger.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\aduio manger.cs",
+              "ToolTip": "D:\\gaming\\project\\Assets\\scripts\\aduio manger.cs",
+              "RelativeToolTip": "Assets\\scripts\\aduio manger.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswBEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:05:03.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sounds.cs",
+              "DocumentMoniker": "D:\\gaming\\project\\Assets\\scripts\\sounds.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\sounds.cs",
+              "ToolTip": "D:\\gaming\\project\\Assets\\scripts\\sounds.cs",
+              "RelativeToolTip": "Assets\\scripts\\sounds.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:01:27.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "player controler.cs",
+              "DocumentMoniker": "D:\\gaming\\project\\Assets\\scripts\\player controler.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player controler.cs",
+              "ToolTip": "D:\\gaming\\project\\Assets\\scripts\\player controler.cs",
+              "RelativeToolTip": "Assets\\scripts\\player controler.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAYwBcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:38:21.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "events.cs",
+              "DocumentMoniker": "D:\\gaming\\project\\Assets\\scripts\\events.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\events.cs",
+              "ToolTip": "D:\\gaming\\project\\Assets\\scripts\\events.cs",
+              "RelativeToolTip": "Assets\\scripts\\events.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:45:55.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "player manger.cs",
+              "DocumentMoniker": "D:\\gaming\\project\\Assets\\scripts\\player manger.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player manger.cs",
+              "ToolTip": "D:\\gaming\\project\\Assets\\scripts\\player manger.cs",
+              "RelativeToolTip": "Assets\\scripts\\player manger.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:27:38.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "camera controller.cs",
+              "DocumentMoniker": "D:\\gaming\\project\\Assets\\scripts\\camera controller.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\camera controller.cs",
+              "ToolTip": "D:\\gaming\\project\\Assets\\scripts\\camera controller.cs",
+              "RelativeToolTip": "Assets\\scripts\\camera controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:12:34.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
